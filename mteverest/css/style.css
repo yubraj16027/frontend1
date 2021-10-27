@@ -1,0 +1,140 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.container-fluid .row{
+	background-color: #b0cbff;
+	
+}
+
+header{
+	background-color: lightgray;
+}
+
+header button a {
+	text-decoration: none;
+}
+
+
+.container-fluid h2{
+	font-size: 17px;
+	color:#100080;
+}
+
+.carousel-slide {
+	position: fixed;
+}
+
+h3,h4 {
+	text-align: center;
+	font-size: 18px;
+	}
+
+/*.carousel-caption{
+	margin-right: 200px;
+	position: fixed;
+}*/
+
+.carousel-caption h5{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+}
+
+.carousel-caption p{
+	font-size: 15px;
+	font-family: sans-serif;
+	color: gold;
+}
+
+
+
+.carousel-caption h6{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	margin-right:500px; 
+}
+
+
+.carousel-caption video {
+	margin-left: 460px;
+}
+
+#q ul li{
+	float: left;
+	list-style: none;
+	width: 40px;
+}
+
+#w h6 {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+}
+
+#e{
+	margin-top: 20px;
+}
+
+.container h7{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	margin-left: 100px;
+}
+
+.container #r{
+	background-color: #b0cbff;
+	border: 1px solid white;
+}
+
+#r h3{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+
+}
+
+.container #t{
+	background-color: #b0cbff;
+	border: 1px solid white;
+}
+
+#t h4{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+}
+
+.container h10{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	margin-left: 100px;
+}
+
+#accordion {
+	border: 3px solid #b0cbff;
+}
+
+#accordion h8{
+	font-size: 20px;
+	font-weight: bolder;
+
+}
+
+#accordion h9{
+	font-size: 20px;
+	font-weight: bolder;
+
+}
+
+
